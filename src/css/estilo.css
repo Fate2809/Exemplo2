@@ -1,0 +1,18 @@
+/* SELETOR UNIVERAL - RESET BÁSICO */
+
+
+*{
+    margin: 0; /*zera todos os lados da margem*/ 
+    padding: 0; /*zera todos os lados do espaçamento interno*/
+    box-sizing: border-box; /*altera a forma de largura e altura de um elemento*/
+}
+
+body{
+    background-color: rgb(41, 99, 44);
+}
+
+header{
+    color:rgb(43, 144, 226);
+    font-size: 20px;
+
+}
